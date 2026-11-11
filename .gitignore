@@ -1,0 +1,15 @@
+# Windows build files
+build/
+dist/
+*.exe
+*.obj
+*.o
+*.res
+*.pdb
+*.ilk
+*.tmp
+
+# Editor and temporary files
+.vs/
+*.log
+*.bak
