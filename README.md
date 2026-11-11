@@ -3,7 +3,11 @@
 **Created and maintained by Mark McEnarney**  
 Copyright (c) 2026 Mark McEnarney · MIT Licence
 
-Zippy Z is a small, open-source Windows 11 utility that lets you choose between nine visual designs for `.zip` file icons. Options include brown and golden folders, dark styles, and a blue Z emblem. It uses a compact native Win32 graphical interface.
+Fed up with ZIP files looking almost identical to ordinary folders in Windows 11?
+
+**Zippy Z** gives your compressed files a distinctive identity, with nine original icon designs to choose from.
+
+Created by Mark McEnarney, Zippy Z is a free, open-source Windows utility that makes it easy to customise ZIP file icons without changing how your archives open or function. It features a compact, native Windows interface.
 
 ![Preview of all nine icon designs](docs/Preview-All-Icons.png)
 
