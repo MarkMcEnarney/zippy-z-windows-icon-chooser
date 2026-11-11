@@ -1,0 +1,3 @@
+LIBRARY GDI32.DLL
+EXPORTS
+GetStockObject
